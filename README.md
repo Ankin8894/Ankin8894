@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Areeba
-- 👀 I’m interested in programming in low-level languages
-- 🌱 I’m currently learning C language
+- 👀 Lover of all things math, programming, and AI
+- 🌱 I’m currently learning python and Data Science
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: The more complicated a task is, the easier it is for me to solve.
 
