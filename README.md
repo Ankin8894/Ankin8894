@@ -1,22 +1,30 @@
-👋 Hey, I'm Areeba Kazi
+<h1 align="center">Hi there 👋, I'm Areeba Kazi</h1>
+<h3 align="center">🤖 AI Enthusiast | Data Science Learner | Future Innovator</h3>
 
-I'm a self-taught programmer and cybersecurity learner from Oman, looking for a junior role in penetration testing or SOC analysis in Germany 🇩🇪.
+### 🧠 About Me
 
-🔐 What I Love:
-- Network security
-- Ethical hacking
-- Writing scripts to automate boring stuff
-
-🧠 Current Focus:
-- TryHackMe and CTFs
-- Building security tools
-- Learning Linux, Nmap, Burp Suite, Wireshark
-
-📫 Connect with me:
-- Email - areebakazi@hotmail.com
+- 🔬 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
+- 🎓 Currently learning **AI from scratch** and working on real-world mini projects
+- 🛠️ Interested in building tools that help solve real-world problems using intelligent systems
+- 🌱 Constantly learning: NLP, Computer Vision, and Reinforcement Learning
+- ✨ I enjoy blending creativity and code to bring smart ideas to life
 
 
-<!---
-Ankin8894/Ankin8894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧰 Tech Stack
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+_✨ Always building, always learning, always evolving._
+
